@@ -535,11 +535,7 @@ h1{
   grid-column: span 6;
   border-radius: 28px;
 }
-.tainguyen{
-  display: flex;
-  justify-content: space-between;
-  gap: 8px;
-}
+
 @media screen and (max-width: 1294px){
 .nguon{
   grid-column: span 1;
